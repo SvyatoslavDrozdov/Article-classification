@@ -46,6 +46,9 @@ computer_science    32994
 - **LayerNorm**
 - **Dropout**
 
+## Обучение модели
+Обучение модели представлено в model_train.ipynb. Чекпоинт с данными модели находится по адресу https://huggingface.co/Svyat-dr/article_classifier/blob/main/transformer_checkpoint.pt.
+
 ## Фронтенд
 
 Для удобства использования модели был реализован простой веб-интерфейс на фреймворке **Streamlit**.
