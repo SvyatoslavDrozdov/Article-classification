@@ -110,7 +110,7 @@ def main():
     st.set_page_config(page_title="Paper Topic Classifier", layout="centered")
     st.title("Classification of article topics")
 
-    st.write("Enter the article abstract.")
+    st.write("Enter the article abstract in English.")
     st.write(
         "The model predicts one most probable topic among the following classes: "
         "physics, mathematics, computer science."
