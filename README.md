@@ -55,4 +55,4 @@ computer_science    32994
 - **mathematics**
 - **computer_science**
 
-На данный момент приложение развернуто с помощью **Streamlit Cloud** и доступно по адресу https://article-classification-a2qnp9i6a8t27kr4rntvaa.streamlit.app/.
+На данный момент приложение развернуто с помощью Streamlit Cloud и доступно по адресу https://article-classification-a2qnp9i6a8t27kr4rntvaa.streamlit.app/.
