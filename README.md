@@ -39,6 +39,7 @@ computer_science    32994
 - residual connections
 - LayerNorm
 - Dropout
+
 В конце используется линейный слой для получения логитов.
 
 ## Обучение модели
